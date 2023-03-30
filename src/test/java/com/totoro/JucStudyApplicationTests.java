@@ -8,6 +8,11 @@ class JucStudyApplicationTests {
 
     @Test
     void contextLoads() {
+
+
+
+
+
     }
 
 }
